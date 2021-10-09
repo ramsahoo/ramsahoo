@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramsahoo
 - 👀 I’m interested in becoming a full stack software  developer.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
+- 🌱 I’m finished learning HTML, CSS, and Javascript. I am now learning more advanced software technologies in relation to js.
 - 💞️ I’m looking for a new job opportunity.
 - 📫 How to reach me: private message.
 
